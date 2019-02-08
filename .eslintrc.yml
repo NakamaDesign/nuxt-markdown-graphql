@@ -4,17 +4,12 @@ parserOptions:
 env:
   browser: true
   node: true
-  jest: true
 extends:
 - standard
 - plugin:vue/recommended
 plugins:
-- jest
 - vue
 rules:
   arrow-parens: 0
   generator-star-spacing: 0
-  no-console: 2
-globals:
-  jest/globals: true
-  jasmine: true
+  no-console: 1

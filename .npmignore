@@ -1,0 +1,9 @@
+.nuxt
+.editorconfig
+.eslintrc.yml
+.gitignore
+example
+node_modules
+preview.png
+yarn.lock
+package-lock.json

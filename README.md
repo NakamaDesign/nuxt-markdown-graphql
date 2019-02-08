@@ -2,7 +2,7 @@
 
 ![Preview](./preview.png)
 
-> Write Markdown and get a GraphQL API for querying them for free on Nuxt.js
+> Markdown to GraphQL module for Nuxt.js
 
 ## Setup
 
