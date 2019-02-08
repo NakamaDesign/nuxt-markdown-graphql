@@ -66,10 +66,8 @@
     }
   },
   "dependencies": {
-    "@okgrow/graphql-markdown": "https://github.com/okgrow/graphql-markdown",
-    "express-graphql": "^0.7.1",
-    "fs": "0.0.1-security",
-    "lanterns": "^1.1.0"
+    "@okgrow/graphql-markdown": "^0.0.2",
+    "express-graphql": "^0.7.1"
   },
   "devDependencies": {
     "@babel/core": "latest",
