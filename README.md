@@ -1,4 +1,4 @@
-# Nuxt Markdown GraphQl
+# Nuxt Markdown GraphQL
 
 ![Preview](./preview.png)
 
