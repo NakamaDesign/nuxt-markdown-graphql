@@ -14,7 +14,9 @@
     "access": "public"
   },
   "scripts": {
-    "dev": "nuxt example"
+    "dev": "nuxt example",
+    "build": "nuxt build example",
+    "start": "nuxt start example"
   },
   "files": [
     "lib"

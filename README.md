@@ -42,6 +42,7 @@ Current options only for custom markdown file directory, you extend contentRoot 
 
 - [x] Base GraphQL from Markdown
 - [x] Custom source markdown directory
+- [ ] Generate to static
 - [ ] Custom route path
 - [ ] Better documentations
 
