@@ -38,6 +38,13 @@ Current options only for custom markdown file directory, you extend contentRoot 
 }
 ```
 
+## Todo
+
+- [x] Base GraphQL from Markdown
+- [x] Custom source markdown directory
+- [ ] Custom route path
+- [ ] Better documentations
+
 ## Development
 
 - Clone this repository
