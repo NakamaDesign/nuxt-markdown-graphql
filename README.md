@@ -6,7 +6,7 @@
 
 ## Setup
 
-- Add `nuxt-markdown-graphql` dependency using yarn or npm to your project
+- Install `nuxt-markdown-graphql` using `yarn add nuxt-markdown-graphql` or `npm install nuxt-markdown-graphql`
 - Add `nuxt-markdown-graphql` to `modules` section of `nuxt.config.js`
 
 ```js
@@ -17,6 +17,23 @@
 
     // With options
     ['nuxt-markdown-graphql', { /* module options */ }],
+ ]
+}
+```
+
+## API
+
+Current options only for custom markdown file directory, you extend contentRoot path like this:
+
+```js
+{
+  modules: [
+    // With options
+    [
+      'nuxt-markdown-graphql', {
+        contentRoot: __dirname + '/foo'
+      }
+    ]
  ]
 }
 ```
