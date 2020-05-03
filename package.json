@@ -37,7 +37,7 @@
     "@okgrow/graphql-markdown": "^0.0.2",
     "consola": "^2.4.0",
     "express-graphql": "^0.9.0",
-    "graphql": "^14.1.1",
+    "graphql": "^15.0.0",
     "graphql-tools": "^5.0.0"
   },
   "devDependencies": {
